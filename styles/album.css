@@ -51,13 +51,16 @@ body.album {
  }
  
  .song-item-title {
-     width: 85%;
+     width: 55%;
  }
  
  .song-item-duration {
-     width: 5%;
+     width: 20%;
  }
 
+.number-played {
+    width: 20%;
+}
  
  /* #2 */
  @media (max-width: 40rem) and (min-width: 20rem) {
